@@ -1,0 +1,39 @@
+[
+    {
+        "title": "Pan Bao",
+        "id": 1,
+        "precio": 1,
+        "imagen": "imagenes/ventas/pan.jpg"
+    },
+    {
+        "title": "Pan con pavis",
+        "id": 2,
+        "precio": 3,
+        "imagen": "imagenes/ventas/pavo.jpg"
+    },
+    {
+        "title": "Alitas de coliflor",
+        "id": 3,
+        "precio": 4,
+        "imagen": "imagenes/ventas/alitas.jpg"
+    },
+    {
+        "title": "Alitas de coliflor",
+        "id": 4,
+        "precio": 4,
+        "imagen": "imagenes/ventas/alitas.jpg"
+    },
+    {
+        "title": "Alitas de coliflor",
+        "id": 5,
+        "precio": 4,
+        "imagen": "imagenes/ventas/alitas.jpg"
+    },
+    {
+        "title": "Alitas de coliflor",
+        "id": 6,
+        "precio": 4,
+        "imagen": "imagenes/ventas/alitas.jpg"
+    }
+]
+
